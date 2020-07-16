@@ -34,8 +34,8 @@
   },
   "dependencies": {
     "prop-types": "^15.5.9",
-    "react-native-material-buttons": "aphzol/react-native-material-buttons#2220e88fc68119d896c1d8c7e00d08fb6c45cb3f",
+    "react-native-material-buttons": "github:aphzol/react-native-material-buttons#2220e88fc68119d896c1d8c7e00d08fb6c45cb3f",
     "react-native-material-ripple": "0.9.1",
-    "react-native-material-textfield": "gabrielslach/react-native-material-textfield#ab55f941165e5a0add8a594511df8c1eba634d3a"
+    "react-native-material-textfield": "github:gabrielslach/react-native-material-textfield#ab55f941165e5a0add8a594511df8c1eba634d3a"
   }
 }
